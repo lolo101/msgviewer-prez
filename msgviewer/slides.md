@@ -192,6 +192,20 @@ Some which I dropped, some I kept, some I dived into:
 - Renovate -- Also used @ BPI
 -->
 ---
+layout: center
+background: "#f3eff5"
+---
+
+<img src="/images/contributors.png">
+
+<!--
+I have a small bunch of contributors
+and also issue reporters
+Some of them are regulars
+
+Many of them come from Germany where the project seem to have some base of users
+-->
+---
 layout: section
 background: "#f3eff5"
 ---
@@ -228,25 +242,17 @@ links, attachments...
 Note the langage is germain
 -->
 ---
-layout: center
+layout: default
 background: "#f3eff5"
 ---
 
-<img src="/images/contributors.png">
+# Various fun facts about Microsoft specs
 
-<!--
-I have a small bunch of contributors
-and also issue reporters
-Some of them are regulars
+<span v-click style="color:var(--slidev-theme-primary);">The "MS Epoch" starts the January 1<sup>st</sup> 1601</span>
 
-Many of them come from Germany where the project seem to have some base of users
--->
----
-layout: center
-background: "#f3eff5"
----
+<span v-click style="color:var(--slidev-theme-primary);">Time is counted by 100s of nanoseconds from the MS Epoch</span>
 
-# HTML Messages
+<span v-click style="color:var(--slidev-theme-primary);">HTML <em>may</em> be encoded in RTF</span>
 
 <!--
 In msg format, HTML is transcripted into RTF
@@ -259,13 +265,20 @@ background: https://cover.sli.dev
 # Demo time
 
 ---
-
-# Truc nerd en annexe
-
-- JavaCC les détails
-
+layout: default
 ---
 
-# Demander des ⭐
+# Do not forget
 
-# Il y a des issues à prendre pour ceux qui veulent
+<span v-click>Do not hesitate to take a look <a href="">lolo101/MsgViewer</a></span>
+
+<span v-click>Give a ⭐ if you feel like it</span>
+
+<span v-click>Some issues are available to take</span>
+
+---
+layout: cover
+background: https://cover.sli.dev
+---
+
+# Thank you!! ❤️
