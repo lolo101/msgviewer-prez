@@ -1,2 +1,2 @@
-# msgviewer-prez
-A Slidev presentation of MsgViewer
+# slidev-prez
+All my slidev presentations
