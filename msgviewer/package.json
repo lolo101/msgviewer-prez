@@ -14,5 +14,8 @@
     "slidev-theme-dracula": "^0.2.0",
     "slidev-theme-the-unnamed": "^0.0.16",
     "vue": "^3.4.21"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.42.1"
   }
 }
